@@ -12,7 +12,7 @@ El proyecto está diseñado específicamente para una protectora de animales de 
 ## 🗄 Tabla de Contenido
 
 - [Creadores](#construction_worker-creadores)
-- [Vídeo]((#video_camera-vídeo))
+- [Vídeo](#video_camera-vídeo)
 - [Seguridad](#computer-seguridad)
 - [Requisitos](#%EF%B8%8F-requisitos)
 - [Ejecución](#%EF%B8%8F-ejecución)
@@ -47,6 +47,9 @@ Clona este repositorio en tu máquina local dentro de la carpeta de bases de dat
 ```bash
     git clone https://github.com/alejandrorodriguez1998/APASA.git
 ```
+> [!WARNING]
+> Se necesita tener instalado Git LFS, descargalo de aqui: https://git-lfs.com/
+
 2. **Ubicar la carpeta**
    
 Asegúrate de que el contenido se encuentre en la ubicación correcta. Por ejemplo:
@@ -78,6 +81,7 @@ Cualquier duda o consulta, escríbenos a nuestro correo:
 
 - alejandro.paniagua1@alu.uclm.es
 - andres.gonzalez9@alu.uclm.es
+- jesus.garcia62@alu.uclm.es
 - angela.gijon@alu.uclm.es
 - jose.lara3@alu.uclm.es
-- jesus.garcia62@alu.uclm.es
+
