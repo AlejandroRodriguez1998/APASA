@@ -45,7 +45,7 @@ Aquí tienes un [video]() haciéndote un tour por la aplicación.
 Clona este repositorio en tu máquina local dentro de la carpeta de bases de datos de XAMPP:
 
 ```bash
-    git clone https://github.com/alejandrorodriguez1998/APASA.git
+git clone https://github.com/alejandrorodriguez1998/APASA.git
 ```
 > [!WARNING]
 > Se necesita tener instalado Git LFS, descargalo de aqui: https://git-lfs.com/
@@ -55,13 +55,13 @@ Clona este repositorio en tu máquina local dentro de la carpeta de bases de dat
 Asegúrate de que el contenido se encuentre en la ubicación correcta. Por ejemplo:
 
 ```
-    xampp/
-    └── htdocs/
-        └── wordpress/
-            ├── wp-admin
-            ├── wp-content
-            ├── wp-includes
-            ├── ...
+ xampp/
+ └── htdocs/
+     └── wordpress/
+         ├── wp-admin
+         ├── wp-content
+         ├── wp-includes
+         ├── ...
 ```
 
 > [!WARNING]
